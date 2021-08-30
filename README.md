@@ -1,10 +1,12 @@
 ![wave](https://capsule-render.vercel.app/api?type=Waving&color=48d1cc&height=200&text=Welcome!&fontColor=ffffff)
+##
+  <div align=center>
+ 
+ 
+🇰🇷 🇦🇺
 
- <div align=center>
-
-### Hello, 안녕하세요! 👋
-
-[이력서](https://wistful-search-692.notion.site/2f8f82d484674fe3ba750dafee091d06) / [Resume](https://wistful-search-692.notion.site/2f8f82d484674fe3ba750dafee091d06)
+  
+📬 [이력서](https://wistful-search-692.notion.site/2f8f82d484674fe3ba750dafee091d06) / [Resume](https://wistful-search-692.notion.site/2f8f82d484674fe3ba750dafee091d06)
  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@blissful-y0)](hhttps://velog.io/@blissful-y0) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kitsch.moon/)](https://www.instagram.com/kitsch.moon/) 
