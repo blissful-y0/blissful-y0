@@ -6,8 +6,6 @@
 🇰🇷 🇦🇺
 
  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@blissful-y0)](https://velog.io/@blissful-y0) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kitsch.moon/)](https://www.instagram.com/kitsch.moon/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blissful.y0@gmail.com)](mailto:blissful.y0@gmail.com)
 
 
@@ -23,9 +21,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql)
-  
-and, yes, of course I love
-  [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/meowmeowwwwww)](https://steamcommunity.com/id/meowmeowwwwww)
  
 ![Bliss's GitHub stats](https://github-readme-stats.vercel.app/api?username=blissful-y0&show_icons=true&theme=react)
 
